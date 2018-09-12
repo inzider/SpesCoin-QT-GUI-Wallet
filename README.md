@@ -6,7 +6,7 @@ Copyright (c) 2018, The SPES developers
 
 # SPES
 
-SpesCoin endeavours to help non-governmental charities reach their goals, mainly focused on disaster charities and children’s charities. 
+SpesCoin endeavours to help non-governmental charities reach their goals, mainly focused on disaster charities and childrenâ€™s charities. 
 
 -= Building SPES GUI =-
 
@@ -19,7 +19,7 @@ $ apt-get update
 $ apt-get upgrade
 $ apt-get install qtbase5-dev libssl-dev cmake git libboost1.58-all-dev build-essential g++
 $ git clone https://github.com/SpesCoin/SpesCoin-QT-GUI-Wallet
-$ cd spescoin/
+$ cd SpesCoin-QT-GUI-Wallet/
 $ cmake CMakeLists.txt
 $ make -j 8
 
