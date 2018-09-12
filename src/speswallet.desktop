@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SPES Wallet
+Comment=SPES wallet
+Exec=SPES %U
+Terminal=false
+Type=Application
+Icon=spescoin
+MimeType=x-scheme-handler/spescoin;
+Categories=Office;Finance;
